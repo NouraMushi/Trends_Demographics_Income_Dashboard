@@ -4,8 +4,6 @@ This project visualizes trends in demographics and income across five countries:
 
 ## Features 🚀
 
-- **Title:** "Trends in Demographics and Income"
-  ![Title](https://github.com/user-attachments/assets/9cb8fd8f-0140-4b1d-a8b9-26af5f815a46)
 - **Select Input Dropdown:** Choose one of the five countries.
   ![SelectInputDropdown](https://github.com/user-attachments/assets/8c48a4bb-6165-4b6e-b2db-aff391647c3b)
 - **Continuous Variables & Graph Type:**  
